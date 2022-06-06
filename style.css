@@ -54,7 +54,7 @@ main {
   margin: 50;
   padding:25;
 }
- div {
+ div { /* center elements /*
    box-sizing: border-box;
    width: 250px; 
    background: #f2f2f2;
