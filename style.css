@@ -17,12 +17,25 @@ h3 {
   text-align: center;
   color:272727;
 }
-p, ul, a {
+p {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   text-align: center;
   color:272727;
 }
+ul {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color:272727;
+}
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color:272727;
+}
+  
 a:link { color:272727;}
 a:visited {color: DB7F67;}
 a:hover {color: 709775;}
