@@ -1,21 +1,43 @@
 h1 {
   font-family: 'Roboto Mono', monospace;
   font-size: 52px;
-  text-align: center
+  text-align: center;
+  color:272727;
 }
 h2{
   font-family: 'Suez One', serif;
   font-size: 32px;
-  text-align: center
+  text-align: center;
+  color:272727;
 }
   
 h3 {
   font-family: 'Suez One', serif;
   font-size: 24px;
-  text-align: center
+  text-align: center;
+  color:272727;
 }
-p {
+p, ul, a {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
-  text-align: center
+  text-align: center;
+  color:272727;
 }
+a:link { color:272727;}
+a:visited {color: DB7F67;}
+a:hover {color: 709775;}
+a:active {color: B497D6}
+
+header {
+  background-color: 709775;
+  box-sizing: border-box;
+  margin: 50;
+  padding:25;
+}
+main {
+  background-color: F5F9E9;
+  box-sizing: border-box;
+  margin: 50;
+  padding:25;
+}
+  
